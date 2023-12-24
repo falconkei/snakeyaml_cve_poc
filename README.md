@@ -27,6 +27,6 @@ Send a post request with yaml to read YAML object as custom java object - deseri
 Execute `python3 -m http.server 8000` to run the http server
 
 Send a post request with yaml containing exploit
-![](images/image2.png)
+![](images/image3.png)
 
 You should observe a HTTP GET request on the listner
